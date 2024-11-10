@@ -563,7 +563,6 @@ body.dark-theme{
     list-style: square;
     color: var(--title-color);
     margin-bottom: 3rem;
-    font-size: 20px;
 }
 .about__buttons{
    display: flex;
